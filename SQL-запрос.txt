@@ -1,4 +1,0 @@
-SELECT product_name, category_name  
-FROM ProductsTable
-LEFT JOIN CategoriesTable
-ON ProductsTable.Product = CategoriesTable.Product
